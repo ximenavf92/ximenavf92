@@ -1,6 +1,6 @@
 ### ¡Hola Mundo! 👋
 ---------
-A designer here, trying to make things happen with code. Enjoying the journey and learning process. Excited to see where this goes. Currently designing and building things at [Benson Design](http://bensondesign.com/) as well as volunteering at the [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President. Working to bridge the communication gap between designers and developers as well as just building a great creative community. I've got ideas and I'll be adding more stuff here soon…I just had to come over and add this README 😉 😜
+A designer here, trying to make things happen with code. Enjoying the journey and learning process. Refining HTML & CSS skills, learning JS and currently obesessed with the Jamstack, Netlify, and everything related! Excited to see where this goes. Currently designing and building things at [Benson Design](http://bensondesign.com/) as well as volunteering at the [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President. Working to bridge the communication gap between designers and developers as well as just building a great creative community. Also love to dance and cook and dance while cooking…anyway…I'll be adding more stuff here soon…I just had to come over and add this README 😉 😜
 
 <!--
 **ximenavf92/ximenavf92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
