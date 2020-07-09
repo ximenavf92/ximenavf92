@@ -1,4 +1,4 @@
-### ¡Hola Hola! 👋
+### ¡Hola Mundo! 👋
 ---------
 A designer here, trying to make things happen with code. Enjoying the journey and learning process. Excited to see where this goes. Currently designing and building things at [Benson Design](http://bensondesign.com/) as well as volunteering at the [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President. Working to bridge the communication gap between designers and developers as well as just building a great creative community. I've got ideas and I'll be adding more stuff here soon…I just had to come over and add this README 😉 😜
 
