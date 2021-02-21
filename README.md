@@ -1,6 +1,31 @@
-### ¡Hola Mundo! 👋
----------
-A designer here, trying to make things happen with code. Enjoying the journey and learning process. Refining HTML & CSS skills, learning JS and currently obesessed with the Jamstack, Netlify, and everything related! Excited to see where this goes. Currently designing and building things at [Benson Design](http://bensondesign.com/) as well as volunteering at the [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President. Working to bridge the communication gap between designers and developers as well as just building a great creative community. Also love to dance and cook and dance while cooking…anyway…I'll be adding more stuff here soon…I just had to come over and add this README 😉 😜
+![illustrations of computers and books with code and her avatar](header-illustration-computers-and-avatar.svg)
+
+&nbsp;
+
+# ¡Hola Mundo! 👋 Ximena here…
+
+## 🎨 💻 &nbsp; Designer and developer working to design and build better, accessible web experiences
+
+&nbsp;
+
+📚 &nbsp; Learning:
+
+- Refining HTML & CSS skills
+- Javascript
+- Accessibility
+- React
+
+🍇 &nbsp; Currently obsessed with the [Jamstack](https://jamstack.org/link), [Netlify](https://netlify.com), and everything related!
+
+👩 &nbsp; Volunteering at [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President.
+
+⭐ &nbsp; Working to bridge the communication gap between designers and developers.
+
+👩 &nbsp; She/Her
+
+🇲🇽 &nbsp;🇺🇸 &nbsp; Mexican born, Texas based
+
+🏠 &nbsp; [Website](https://ximenavf.com) &nbsp; | &nbsp; 💬 &nbsp; [RWC Discord Hangout](https://www.patreon.com/cassidoo/posts)
 
 <!--
 **ximenavf92/ximenavf92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
