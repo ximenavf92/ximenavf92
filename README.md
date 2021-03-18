@@ -17,6 +17,8 @@
 
 🍇 &nbsp; Currently obsessed with the [Jamstack](https://jamstack.org/link), [Netlify](https://netlify.com), and everything related!
 
+💼 &nbsp; Web Designer at [UTSA (The University of Texas at San Antonio)](https://www.utsa.edu/)
+
 👩 &nbsp; Volunteering at [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President.
 
 ⭐ &nbsp; Working to bridge the communication gap between designers and developers.
