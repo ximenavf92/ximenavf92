@@ -27,7 +27,9 @@
 
 🇲🇽 &nbsp;🇺🇸 &nbsp; Mexican born, Texas based
 
-🏠 &nbsp; [Website](https://ximenavf.com) &nbsp; | &nbsp; 💬 &nbsp; [RWC Discord Hangout](https://www.patreon.com/cassidoo/posts)
+🏠 &nbsp; [My Website](https://ximenavf.com) &nbsp; | &nbsp; 💬 &nbsp; [RWC Discord Hangout](https://www.patreon.com/cassidoo/posts)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8477PN)
 
 <!--
 **ximenavf92/ximenavf92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
