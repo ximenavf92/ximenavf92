@@ -4,20 +4,21 @@
 
 # ¡Hola Mundo! 👋 Ximena here…
 
-## 🎨 💻 &nbsp; Designer and developer working to design and build better, accessible web experiences
+## 🎨 💻 &nbsp; Designer and developer working to design and build better, accessible digital experiences
 
 &nbsp;
 
 📚 &nbsp; Learning:
 
-- Refining HTML & CSS skills
-- Javascript
+- AI Stuff
+- Expanding Design Knowledge
+- Javascript/APIs
 - Accessibility
 - React
 
-🍇 &nbsp; Currently obsessed with the [Jamstack](https://jamstack.org/link), [Netlify](https://netlify.com), and everything related!
+👩‍💻 &nbsp; Currently freelancing as a designer/developer and other fun stuff 🤐😉
 
-💼 &nbsp; Web Designer at [UTSA (The University of Texas at San Antonio)](https://www.utsa.edu/)
+💼 &nbsp; Previously Designer at [Astro](https://astro.build/) and Web Designer at [UTSA (The University of Texas at San Antonio)](https://www.utsa.edu/)
 
 👩 &nbsp; Volunteering at [AIGA San Antonio](https://sanantonio.aiga.org/) as Chapter President.
 
