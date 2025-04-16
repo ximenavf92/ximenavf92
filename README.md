@@ -1,19 +1,23 @@
+![Ximena Vila Ferral](logo.svg)
+
 ![illustrations of computers and books with code and her avatar](header-illustration-computers-and-avatar.svg)
 
 &nbsp;
 
 # ¡Hola Mundo! 👋 Ximena here…
+(It is pronounced _He-Men-Ah_ if you were curious)
 
-## 🎨 💻 &nbsp; Designer and developer working to design and build better, accessible digital experiences
+## 🎨 💻 &nbsp; Designer and developer working to design and build better, accessible digital experiences for everyone.
 
 &nbsp;
 
-📚 &nbsp; Learning:
+📚 &nbsp; **Learning:**
 
 - AI Stuff
 - Expanding Design Knowledge
 - Javascript/APIs
 - Accessibility
+- Astro
 - React
 
 👩‍💻 &nbsp; Currently freelancing as a designer/developer and other fun stuff 🤐😉
@@ -28,7 +32,7 @@
 
 🇲🇽 &nbsp;🇺🇸 &nbsp; Mexican born, Texas based
 
-🏠 &nbsp; [My Website](https://ximenavf.com) &nbsp; | &nbsp; 💬 &nbsp; [RWC Discord Hangout](https://www.patreon.com/cassidoo/posts)
+🏠 &nbsp; [My Personal Website](https://ximenavf.com) &nbsp; | &nbsp; 🎨 &nbsp; [My Portfolio Website]([https://www.patreon.com/cassidoo/posts](https://ximenavf.design/)) &nbsp;| &nbsp; 💬 &nbsp; [RWC Discord Hangout](https://www.patreon.com/cassidoo/posts)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8477PN)
 
