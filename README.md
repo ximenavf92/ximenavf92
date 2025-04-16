@@ -9,7 +9,6 @@
 
 ## 🎨 💻 &nbsp; Designer and developer working to design and build better, accessible digital experiences for everyone.
 
-&nbsp;
 
 📚 &nbsp; **Learning:**
 
